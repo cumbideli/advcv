@@ -1,0 +1,6 @@
+mkdir cs101-test
+cd cs101-test
+git init
+echo "# My CS101 test repo" > README.md
+git add .
+git commit -m "Initial commit"
